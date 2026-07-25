@@ -1,5 +1,5 @@
 # sena-frontend-sesion01
 
-Proyecto inicial de maquetación web.
+Proyecto sistema de información  centro de servicios J&E 
 
 **Aprendiz:** [Alvaro De Jesus Rios Osorio]
